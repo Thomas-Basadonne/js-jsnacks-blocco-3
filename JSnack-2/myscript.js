@@ -8,7 +8,7 @@ let sum = 0;
 while (sum < 50) {
   let newNumber = parseInt(prompt("scegli un numero minore di 50"));
   myArray.push(newNumber);
-  sum += myArray;
+  sum += newNumberri;
 }
 
 console.log(myArray);
